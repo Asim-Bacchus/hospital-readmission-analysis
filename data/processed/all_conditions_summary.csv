@@ -1,0 +1,7 @@
+Condition,n,Pearson r,Pearson p,Spearman rho,Spearman p
+Heart Failure,2520,-0.1545,0.0,-0.1534,0.0
+COPD,2265,-0.1229,0.0,-0.1224,0.0
+Pneumonia,2539,-0.1722,0.0,-0.1638,0.0
+Heart Attack (AMI),1727,-0.129,0.0,-0.1281,0.0
+Hip/Knee Replacement,1418,-0.0998,0.0002,-0.0725,0.0063
+Bypass Surgery (CABG),878,-0.08,0.0178,-0.069,0.041
