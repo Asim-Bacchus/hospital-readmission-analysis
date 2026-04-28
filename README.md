@@ -79,7 +79,7 @@ All correlations are negative (better communication, lower readmission ratio) an
 
 ---
 
-### 2. Grouped Means: Heart Failure
+### 2. Grouped Means: Heart Failure Gradient
 
 Heart failure is among the strongest signals and represents the most common chronic condition in the dataset. Hospitals with 1-star nurse communication averaged an excess readmission ratio of 1.037 (worse than expected). Hospitals with 4 and 5-star ratings averaged 0.990 and 0.993 respectively (better than expected).
 
